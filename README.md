@@ -1,7 +1,5 @@
 # Customer Churn Analysis using Microsoft Excel
-## Dashboard Preview
-
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Dashboard](customer%20churn%20dashboard.png)
 
 ## Project Overview
 
